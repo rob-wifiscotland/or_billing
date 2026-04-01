@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+incoming/*
+processed/*
+failed/*
+logs/*
+
+!incoming/.gitkeep
+!processed/.gitkeep
+!failed/.gitkeep
+!logs/.gitkeep
